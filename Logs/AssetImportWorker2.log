@@ -1,0 +1,333 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'ja' Physical Memory: 32581 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/ryopp/unity_ws/HandEffect
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+57698
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/ryopp/unity_ws/HandEffect
+C:/Users/ryopp/unity_ws/HandEffect
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10088]  Target information:
+
+Player connection [10088]  * "[IP] 192.168.1.91 [Port] 0 [Flags] 2 [Guid] 2774682683 [EditorId] 2774682683 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-S9AJO91) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10088]  * "[IP] 172.25.224.1 [Port] 0 [Flags] 2 [Guid] 2774682683 [EditorId] 2774682683 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-S9AJO91) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10088] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10088] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ryopp/unity_ws/HandEffect/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x24c9)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.006085 seconds.
+- Loaded All Assemblies, in  0.319 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 267 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.556 seconds
+Domain Reload Profiling: 873ms
+	BeginReloadAssembly (110ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (126ms)
+		LoadAssemblies (107ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (124ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (111ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (556ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (522ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (337ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (120ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.861 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.659 seconds
+Domain Reload Profiling: 1515ms
+	BeginReloadAssembly (361ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (421ms)
+		LoadAssemblies (303ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (207ms)
+			TypeCache.Refresh (144ms)
+				TypeCache.ScanAssembly (129ms)
+			BuildScriptInfoCaches (53ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (659ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (453ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (309ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5944 unused Assets / (4.4 MB). Loaded Objects now: 6713.
+Memory consumption went from 186.9 MB to 182.6 MB.
+Total: 6.149200 ms (FindLiveObjects: 0.429200 ms CreateObjectMapping: 0.378200 ms MarkObjects: 3.745400 ms  DeleteObjects: 1.595700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2693976.489068 seconds.
+  path: Assets/Effects
+  artifactKey: Guid(72ac863f2e316ce47906cb4771096bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects using Guid(72ac863f2e316ce47906cb4771096bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0dcbf80e74f6f46e33be0c10e1aca1f') in 0.0063485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.245254 seconds.
+  path: Assets/SandalStudio/Snow FX/Demo Scene/Demo.mat
+  artifactKey: Guid(04a9f76fb506a654ebd3a93d0822e13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Demo Scene/Demo.mat using Guid(04a9f76fb506a654ebd3a93d0822e13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01fd37954b37d3e4f037365d3aadf067') in 0.4331521 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.789076 seconds.
+  path: Assets/SandalStudio/Snow FX/Demo Scene/Demo_Scene.unity
+  artifactKey: Guid(9ccfea8a8475286429c69b5211fdf6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Demo Scene/Demo_Scene.unity using Guid(9ccfea8a8475286429c69b5211fdf6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8776d7371e232bd5dd68c1205c9dceca') in 0.000587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.793348 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow.mat
+  artifactKey: Guid(cdcf97f9494fdd047bc33cbf9dfb9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow.mat using Guid(cdcf97f9494fdd047bc33cbf9dfb9a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef0c39c7d32e86f09aa2a50eab73cb9e') in 0.0309181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 3.mat
+  artifactKey: Guid(0aea4003291c1c74dbace313f8c76839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 3.mat using Guid(0aea4003291c1c74dbace313f8c76839) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af3f9cda48d917f42e2d2ad5e1f2af6b') in 0.0098868 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 5.mat
+  artifactKey: Guid(83514a7fb5b47db43a697589fed8499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 5.mat using Guid(83514a7fb5b47db43a697589fed8499b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c04d5fdeca396fb56788c4e864fd3c3') in 0.0097108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 6.mat
+  artifactKey: Guid(18b35371b7236e04cb6bc882624398b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 6.mat using Guid(18b35371b7236e04cb6bc882624398b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55ee486f6b42118438f2261c8e1c95d4') in 0.0095953 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 2.mat
+  artifactKey: Guid(34a41b1911a8f3849a66a2a3270318ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 2.mat using Guid(34a41b1911a8f3849a66a2a3270318ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe39af54023750f9b70f012f5d67f4dc') in 0.0079105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 4.mat
+  artifactKey: Guid(344b796baefee94469994031123571d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 4.mat using Guid(344b796baefee94469994031123571d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'daec47bb8216813da6d65a3bfa8fc0c0') in 0.0082808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 7.mat
+  artifactKey: Guid(da0d2d4aef03c9842b1db1879a5ec6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 7.mat using Guid(da0d2d4aef03c9842b1db1879a5ec6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6044fb4700f392ceebc24e80aca9ab53') in 0.014822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 10.mat
+  artifactKey: Guid(db362b5a09adca649b2fbf28f9775c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 10.mat using Guid(db362b5a09adca649b2fbf28f9775c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '005de88e334cf6dc8294614d6f198ed5') in 0.0086338 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 8.mat
+  artifactKey: Guid(c65a035c4fa7b0a4db8562ecb6df106f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Materials/SandalStudio_Snow 8.mat using Guid(c65a035c4fa7b0a4db8562ecb6df106f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0dc09f4b9b6cf40c3f1b0c93947ffe4') in 0.0128302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.933140 seconds.
+  path: Assets/SandalStudio/Snow FX/Props/Snow 1.prefab
+  artifactKey: Guid(038ef49d9b322bb44b519fa4bf173a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Props/Snow 1.prefab using Guid(038ef49d9b322bb44b519fa4bf173a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b3d204f0ebf06bb488891198f8629dc') in 0.0276288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SandalStudio/Snow FX/Props/Snow 3.prefab
+  artifactKey: Guid(2a11abeb3efb52545997efdc6822cc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Props/Snow 3.prefab using Guid(2a11abeb3efb52545997efdc6822cc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6f66173becd972a2d5f86d15b2e1fac') in 0.0084989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/SandalStudio/Snow FX/Props/Snow 9.prefab
+  artifactKey: Guid(52aa68a891293e141a7f6a1e33d8f865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Props/Snow 9.prefab using Guid(52aa68a891293e141a7f6a1e33d8f865) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ab1efa6cb156f14fb8a361eb464a4c9') in 0.0083125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/SandalStudio/Snow FX/Props/Snow 7.prefab
+  artifactKey: Guid(97bdab63d45f3a8499d727bb9887c633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Props/Snow 7.prefab using Guid(97bdab63d45f3a8499d727bb9887c633) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '961e702522d7c1e447f3d2bd4a3b6eb2') in 0.0080765 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/SandalStudio/Snow FX/Props/Snow 6.prefab
+  artifactKey: Guid(78c24fc27f198034eaa13262ba74b3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SandalStudio/Snow FX/Props/Snow 6.prefab using Guid(78c24fc27f198034eaa13262ba74b3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec02fa9f57bc9f9b8167fb7bb4ca2b64') in 0.0086951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
